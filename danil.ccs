@@ -1,0 +1,29 @@
+footer{
+    background-color: lightblue;
+    padding:10px;
+}
+header{
+    background-color: aqua;
+    padding: 10px;
+}
+header a{
+    background-color: lawngreen;
+    border-radius: 10px;
+    font-size: 21px;
+}
+a:hover{
+    color:rosybrown;
+}
+.div{
+    font-size: 24px;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+body{
+    background-color: aquamarine;
+}
