@@ -1,0 +1,19 @@
+footer{
+    background-color: lightblue;
+}
+header{
+    background-color: aqua;
+}
+header a{
+    background-color: lawngreen;
+
+}
+a:hover{
+    color:rosybrown
+}
+.div{
+    font-size: 24px;
+}
+body{
+    background-color: aquamarine;
+}
