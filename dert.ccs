@@ -20,3 +20,7 @@ body{
 }
 .der{
 font-size:40px;
+}
+h1{
+font-align:center;
+font-size:54px;
