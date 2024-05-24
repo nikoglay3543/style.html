@@ -49,8 +49,8 @@ container-links{
 }
 body{ 
 background-color:aquamarine;
-p{
-font-size:47px;
+.ger{
+font-size:37px;
 }
 header a{
 border-radius:10px;
