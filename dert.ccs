@@ -22,6 +22,6 @@ body{
 font-size:40px;
 }
 h1{
-font-align:center;
+text-align:center;
 font-size:54px;
 }
