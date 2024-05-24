@@ -7,7 +7,7 @@ header{
 header a{
     background-color: lawngreen;
     font-size:24px;
-
+    border-radius:10px;
 }
 a:hover{
     color:rosybrown
