@@ -50,7 +50,7 @@ container-links{
 body{ 
 background-color:aquamarine;
 .ger{
-font-size:37px;
+font-size:28px;
 }
 header a{
 border-radius:10px;
