@@ -48,3 +48,5 @@ font-size:28px;
 header a{
 border-radius:10px;
 font-size:30px;
+color:black;
+}
