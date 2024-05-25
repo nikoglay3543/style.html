@@ -5,6 +5,7 @@ header{
     background-color: aqua;
 }
 header a{
+    color:black;
     font-size:30px;
     border-radius:10px;
 }
@@ -52,7 +53,7 @@ header{
     padding: 10px;
 }
 header a{
-    background-color: lawngreen;
+    color:black;
     border-radius: 10px;
     font-size: 24px;
 }
