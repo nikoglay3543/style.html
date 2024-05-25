@@ -33,3 +33,7 @@ font-size:30px;
 .ser{
 font-size:28px;
 }
+.galery{
+    display: flex;
+    justify-content: flex-start;
+}
