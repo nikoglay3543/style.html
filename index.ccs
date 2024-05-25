@@ -1,5 +1,5 @@
 header{
-    background-color: aqua;
+
     padding: 30px;
 
 
@@ -36,12 +36,6 @@ a:hover{
  color: rosybrown;
 }
 
-footer{
-    background-color:darkcyan;
-}
-container-links{
-    
-}
 .galery{
     display: flex;
     justify-content: flex-start;
