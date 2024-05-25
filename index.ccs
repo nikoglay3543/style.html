@@ -12,7 +12,7 @@ header{
 
 }
     h1 {
-    text-align: left;
+    text-align: center;
     color: #9FEE00;
     font-size: 76px;
     text-shadow: 0px 20px 10px rgba(29, 115, 115, 0.38);
