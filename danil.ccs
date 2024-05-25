@@ -1,9 +1,9 @@
 footer{
-    background-color: lightblue;
+    
     padding:10px;
 }
 header{
-    background-color: aqua;
+  
     padding: 10px;
 }
 header a{
