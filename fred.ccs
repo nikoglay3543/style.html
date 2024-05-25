@@ -30,3 +30,6 @@ header a{
 color: black;
 font-size:30px;
 }
+.ser{
+font-size:28px;
+}
