@@ -2,7 +2,7 @@
 header a{
     color:black;
     font-size:30px;
-    border-radius:10px;
+   
 }
 a:hover{
     color:rosybrown;
@@ -39,18 +39,9 @@ h1 {
     margin-inline-end: 0px;
     font-weight: bold;
 }
-footer{
-    background-color: lightblue;
-    padding:10px;
-}
-header{
-    background-color: aqua;
-    padding: 10px;
-}
 header a{
     color:black;
-    border-radius: 10px;
-    font-size: 24px;
+    font-size: 30px;
 }
 a:hover{
     color:rosybrown;
