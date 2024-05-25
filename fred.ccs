@@ -1,6 +1,6 @@
 body{
-
-  
+background-color:aquamarine;
+  }
  h1 {
     text-align: center;
     color: #9FEE00;
@@ -22,4 +22,11 @@ h1 {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+}
+a:hover{
+
+}
+header a{
+color: black;
+font-size:30px;
 }
