@@ -1,16 +1,11 @@
-footer{
-    background-color: lightblue;
-}
-header{
-    background-color: aqua;
-}
+
 header a{
     color:black;
     font-size:30px;
     border-radius:10px;
 }
 a:hover{
-    color:rosybrown
+    color:rosybrown;
 }
 .div{
     font-size: 24px;
